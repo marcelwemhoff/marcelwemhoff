@@ -1,3 +1,9 @@
-- 👋 Hi, I’m @marcelwemhoff
-- 👀 I’m interested in Software Development with C#/.NET, Homelabs, OpenSource-Software, IT-Security & Privacy
-- 🌱 I’m currently learning Kubernetes
+- 👋 Hi, I’m Marcel – Software Development Engineer with over 10 years of experience
+- 👀 I’m interested in programming with C#/.NET, homelabs, open-source software, IT security & privacy
+- 🌱 I’m currently learning Kubernetes, frontend technologies (Vue & Svelte), and of course everything AI-related ...
+- 🛠️ My Skills & Knowledge:
+  - OS: MS Windows, Debian, Ubuntu, Android
+  - Languages: German (incl. "Plattdeutsch"), English, C#, SQL, HTML/CSS/JavaScript/TypeScript (Angular, Vue, Svelte, Material Design), Markdown, VBScript, PowerShell, Bash
+  - Self-hosted services: Proxmox, Docker, Pi-hole, WireGuard, Nextcloud, Samba (SMB + AD), HomeAssistant, Paperless-ngx, Authentik, Immich, Grafana, InfluxDB, Jellyfin
+  - Other tools/services/technologies: SOAP, REST, Git, GitLab CI, GitHub Actions, OpenSSL, SSH, KeePass, MS Office, JIRA, Ansible, ...
+- 🎸 I can play the guitar at a level somewhere between beginner and intermediate ... 😅
