@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+developer+by+day;Homelab+tinkerer+by+night;Open+source%2C+security+%26+privacy+enthusiast;Currently+learning+Kubernetes%2C+Vue%2C+Svelte+%26+AI)](https://github.com/marcelwemhoff)
 
-![Profile views](https://komarev.com/ghpvc/?username=marcelwemhoff&label=Profile%20views&color=7c3aed&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/marcelwemhoff?style=flat-square&logo=github&color=7c3aed)](https://github.com/marcelwemhoff?tab=followers)
-
 </div>
 
 ---
@@ -89,15 +86,8 @@ I self-host the services I use every day, which keeps my skills in networking, s
 
 </div>
 
-## 🤝 Let's connect
-
-I'm always up for a chat about .NET, homelabs, open source or security.
-
-[![GitHub](https://img.shields.io/badge/GitHub-marcelwemhoff-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelwemhoff)
-[![Xing](https://img.shields.io/badge/Xing-Marcel%20Wemhoff-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Marcel_Wemhoff)
-
 <div align="center">
 
-<img src="assets/footer.svg" alt="" width="100%" />
+<a href="https://www.xing.com/profile/Marcel_Wemhoff"><img src="assets/footer.svg" alt="Let's connect – find me on XING" width="100%" /></a>
 
 </div>
