@@ -22,15 +22,14 @@ I build and maintain software for a living and run a small datacenter at home fo
 
 **Languages & frameworks**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -79,9 +78,7 @@ I self-host the services I use every day, which keeps my skills in networking, s
 
 <div align="center">
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelwemhoff&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/marcelwemhoff)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelwemhoff&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/marcelwemhoff)
-
 [![Contribution streak](https://streak-stats.demolab.com?user=marcelwemhoff&hide_border=true&theme=tokyonight)](https://github.com/marcelwemhoff)
 
 </div>
