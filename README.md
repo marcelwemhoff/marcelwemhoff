@@ -78,7 +78,6 @@ I self-host the services I use every day, which keeps my skills in networking, s
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelwemhoff&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/marcelwemhoff)
 [![Contribution streak](https://streak-stats.demolab.com?user=marcelwemhoff&hide_border=true&theme=tokyonight)](https://github.com/marcelwemhoff)
 
 </div>
